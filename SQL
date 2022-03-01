@@ -4,3 +4,5 @@ FULL OUTER JOIN table2
 ON table1.column_name = table2.column_name
 WHERE condition;
 CREATE DATABASE testDB;
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
